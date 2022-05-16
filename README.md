@@ -1,3 +1,3 @@
-# Calculadora-lex-and-jacc-
+# Calculadora-lex-and-yacc-
 
-Se crea una calculadora usando lex and jacc
+Se crea una calculadora usando lex and yacc
